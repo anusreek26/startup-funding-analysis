@@ -14,8 +14,7 @@ The project demonstrates data cleaning, exploratory data analysis (EDA), visuali
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
-- Jupyter Notebook
+- google colab
 
 ---
 
